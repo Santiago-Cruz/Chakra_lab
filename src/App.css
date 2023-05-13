@@ -1,0 +1,9 @@
+@media screen and (max-width: 600px) {
+  .container {
+    max-width: 100%; /* full width for small screens */
+  }
+  .text {
+    font-size: 1.2rem; /* smaller font size for small screens */
+    padding: 1rem; /* add more padding for better readability */
+  }
+}
